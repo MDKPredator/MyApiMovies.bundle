@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-import re
+import \
+    re  # import time def Log(dbgline): Log("\n\n\n----------\n\n" + time.strftime("%H:%M:%S - ") + dbgline + "\n\n---------\n\n\n")
 
 MAM_BASE_URL = 'https://www.myapimovies.com/api/v1'
 
