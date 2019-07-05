@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>CFBundleIdentifier</key>
+        <string>com.plexapp.agents.myapimovies</string>
+        <key>PlexAgentAttributionText</key>
+        <string>The &lt;a href=&quot;https://www.myapimovies.com&quot;&gt;MyApiMovies&lt;/a&gt; Agent provides information from Imdb for movies and series titles, summaries, genres, ratings and content ratings</string>
+        <key>PlexFrameworkVersion</key>
+        <string>2</string>
+        <key>PlexPluginClass</key>
+        <string>Agent</string>
+</dict>
+</plist>
+
+
